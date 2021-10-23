@@ -15,7 +15,7 @@ let config = {
   },
   scale: {
     mode: Phaser.Scale.Fit
-  }
+  },
   backgroundColor: 0x75da92,
   scene: [Scene1]
 }
